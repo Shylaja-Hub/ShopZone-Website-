@@ -89,7 +89,10 @@ Execute Selenium TestNG scripts
 
 ## 📸 Login Page
 
-![Login Page](screenshots/login-page.png)
+![Login Page](Screenshot 2026-05-26 122703.png)
+![Home ](Screenshot 2026-05-26 122734.png)
+![Login Page](Screenshot 2026-05-26 122746.png)
+![Login Page](Screenshot 2026-05-26 122756.png)
 
 
 
